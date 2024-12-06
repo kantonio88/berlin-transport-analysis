@@ -1,0 +1,1001 @@
+Route,Station,Passenger_Count,Delay_Minutes,DateTime
+U4,Friedrichstraße,209,2,2024-01-01 00:00:00
+U5,Friedrichstraße,60,0,2024-01-01 01:00:00
+U3,Friedrichstraße,187,0,2024-01-01 02:00:00
+U5,Friedrichstraße,127,0,2024-01-01 03:00:00
+U5,Zoo,126,0,2024-01-01 04:00:00
+U2,Zoo,490,1,2024-01-01 05:00:00
+U3,Potsdamer Platz,303,0,2024-01-01 06:00:00
+U3,Alexanderplatz,458,5,2024-01-01 07:00:00
+U3,Friedrichstraße,307,1,2024-01-01 08:00:00
+U5,Potsdamer Platz,369,0,2024-01-01 09:00:00
+U4,Alexanderplatz,340,1,2024-01-01 10:00:00
+U3,Hauptbahnhof,312,0,2024-01-01 11:00:00
+U5,Zoo,134,0,2024-01-01 12:00:00
+U2,Alexanderplatz,195,1,2024-01-01 13:00:00
+U4,Hauptbahnhof,372,2,2024-01-01 14:00:00
+U2,Alexanderplatz,91,2,2024-01-01 15:00:00
+U4,Zoo,423,0,2024-01-01 16:00:00
+U5,Zoo,174,0,2024-01-01 17:00:00
+U1,Potsdamer Platz,216,1,2024-01-01 18:00:00
+U4,Friedrichstraße,474,0,2024-01-01 19:00:00
+U2,Alexanderplatz,290,0,2024-01-01 20:00:00
+U5,Alexanderplatz,329,0,2024-01-01 21:00:00
+U4,Hauptbahnhof,237,1,2024-01-01 22:00:00
+U1,Zoo,351,0,2024-01-01 23:00:00
+U1,Alexanderplatz,68,1,2024-01-02 00:00:00
+U3,Zoo,117,10,2024-01-02 01:00:00
+U3,Alexanderplatz,267,0,2024-01-02 02:00:00
+U2,Potsdamer Platz,151,0,2024-01-02 03:00:00
+U4,Friedrichstraße,91,0,2024-01-02 04:00:00
+U4,Alexanderplatz,337,2,2024-01-02 05:00:00
+U3,Zoo,216,0,2024-01-02 06:00:00
+U4,Potsdamer Platz,158,0,2024-01-02 07:00:00
+U4,Alexanderplatz,85,0,2024-01-02 08:00:00
+U1,Hauptbahnhof,281,1,2024-01-02 09:00:00
+U3,Friedrichstraße,278,0,2024-01-02 10:00:00
+U5,Alexanderplatz,402,1,2024-01-02 11:00:00
+U3,Potsdamer Platz,213,5,2024-01-02 12:00:00
+U5,Hauptbahnhof,436,0,2024-01-02 13:00:00
+U1,Potsdamer Platz,122,2,2024-01-02 14:00:00
+U2,Potsdamer Platz,185,0,2024-01-02 15:00:00
+U4,Hauptbahnhof,402,2,2024-01-02 16:00:00
+U1,Potsdamer Platz,428,1,2024-01-02 17:00:00
+U4,Hauptbahnhof,119,2,2024-01-02 18:00:00
+U2,Alexanderplatz,474,0,2024-01-02 19:00:00
+U2,Hauptbahnhof,245,0,2024-01-02 20:00:00
+U1,Hauptbahnhof,318,0,2024-01-02 21:00:00
+U2,Friedrichstraße,98,0,2024-01-02 22:00:00
+U5,Hauptbahnhof,365,0,2024-01-02 23:00:00
+U2,Hauptbahnhof,179,0,2024-01-03 00:00:00
+U4,Alexanderplatz,493,0,2024-01-03 01:00:00
+U4,Friedrichstraße,54,0,2024-01-03 02:00:00
+U4,Zoo,477,2,2024-01-03 03:00:00
+U4,Alexanderplatz,76,0,2024-01-03 04:00:00
+U5,Alexanderplatz,209,0,2024-01-03 05:00:00
+U3,Zoo,198,0,2024-01-03 06:00:00
+U1,Hauptbahnhof,313,0,2024-01-03 07:00:00
+U4,Potsdamer Platz,279,10,2024-01-03 08:00:00
+U2,Friedrichstraße,249,0,2024-01-03 09:00:00
+U4,Potsdamer Platz,99,1,2024-01-03 10:00:00
+U2,Zoo,116,10,2024-01-03 11:00:00
+U2,Alexanderplatz,349,2,2024-01-03 12:00:00
+U4,Alexanderplatz,430,1,2024-01-03 13:00:00
+U5,Friedrichstraße,107,2,2024-01-03 14:00:00
+U2,Alexanderplatz,308,10,2024-01-03 15:00:00
+U2,Alexanderplatz,391,1,2024-01-03 16:00:00
+U4,Friedrichstraße,375,0,2024-01-03 17:00:00
+U2,Friedrichstraße,179,1,2024-01-03 18:00:00
+U2,Zoo,264,0,2024-01-03 19:00:00
+U4,Alexanderplatz,221,1,2024-01-03 20:00:00
+U4,Alexanderplatz,307,0,2024-01-03 21:00:00
+U1,Zoo,151,0,2024-01-03 22:00:00
+U5,Hauptbahnhof,258,0,2024-01-03 23:00:00
+U5,Hauptbahnhof,340,0,2024-01-04 00:00:00
+U2,Hauptbahnhof,403,0,2024-01-04 01:00:00
+U5,Zoo,335,0,2024-01-04 02:00:00
+U2,Alexanderplatz,165,0,2024-01-04 03:00:00
+U1,Zoo,313,0,2024-01-04 04:00:00
+U4,Zoo,199,2,2024-01-04 05:00:00
+U4,Hauptbahnhof,349,0,2024-01-04 06:00:00
+U4,Potsdamer Platz,491,0,2024-01-04 07:00:00
+U5,Alexanderplatz,85,1,2024-01-04 08:00:00
+U1,Hauptbahnhof,382,0,2024-01-04 09:00:00
+U5,Potsdamer Platz,336,0,2024-01-04 10:00:00
+U5,Potsdamer Platz,352,2,2024-01-04 11:00:00
+U1,Friedrichstraße,360,2,2024-01-04 12:00:00
+U1,Alexanderplatz,257,0,2024-01-04 13:00:00
+U1,Potsdamer Platz,155,0,2024-01-04 14:00:00
+U1,Hauptbahnhof,495,10,2024-01-04 15:00:00
+U4,Friedrichstraße,207,1,2024-01-04 16:00:00
+U3,Alexanderplatz,170,0,2024-01-04 17:00:00
+U3,Zoo,104,2,2024-01-04 18:00:00
+U1,Hauptbahnhof,449,0,2024-01-04 19:00:00
+U3,Potsdamer Platz,61,0,2024-01-04 20:00:00
+U3,Potsdamer Platz,194,0,2024-01-04 21:00:00
+U1,Hauptbahnhof,449,1,2024-01-04 22:00:00
+U3,Potsdamer Platz,445,0,2024-01-04 23:00:00
+U5,Friedrichstraße,185,1,2024-01-05 00:00:00
+U2,Alexanderplatz,52,0,2024-01-05 01:00:00
+U2,Friedrichstraße,193,0,2024-01-05 02:00:00
+U1,Potsdamer Platz,79,0,2024-01-05 03:00:00
+U4,Zoo,286,1,2024-01-05 04:00:00
+U1,Alexanderplatz,328,0,2024-01-05 05:00:00
+U4,Alexanderplatz,397,0,2024-01-05 06:00:00
+U2,Hauptbahnhof,164,2,2024-01-05 07:00:00
+U1,Hauptbahnhof,153,0,2024-01-05 08:00:00
+U5,Zoo,167,10,2024-01-05 09:00:00
+U3,Alexanderplatz,54,0,2024-01-05 10:00:00
+U4,Zoo,409,1,2024-01-05 11:00:00
+U3,Hauptbahnhof,297,0,2024-01-05 12:00:00
+U3,Hauptbahnhof,413,5,2024-01-05 13:00:00
+U1,Alexanderplatz,370,0,2024-01-05 14:00:00
+U3,Friedrichstraße,170,0,2024-01-05 15:00:00
+U5,Potsdamer Platz,335,0,2024-01-05 16:00:00
+U3,Hauptbahnhof,198,0,2024-01-05 17:00:00
+U1,Hauptbahnhof,133,0,2024-01-05 18:00:00
+U5,Friedrichstraße,455,5,2024-01-05 19:00:00
+U2,Friedrichstraße,280,0,2024-01-05 20:00:00
+U3,Zoo,337,1,2024-01-05 21:00:00
+U1,Zoo,210,1,2024-01-05 22:00:00
+U2,Potsdamer Platz,321,1,2024-01-05 23:00:00
+U2,Potsdamer Platz,87,0,2024-01-06 00:00:00
+U4,Alexanderplatz,275,0,2024-01-06 01:00:00
+U5,Zoo,191,1,2024-01-06 02:00:00
+U3,Hauptbahnhof,341,10,2024-01-06 03:00:00
+U1,Zoo,200,0,2024-01-06 04:00:00
+U4,Hauptbahnhof,163,0,2024-01-06 05:00:00
+U5,Friedrichstraße,286,0,2024-01-06 06:00:00
+U4,Zoo,115,10,2024-01-06 07:00:00
+U5,Friedrichstraße,410,0,2024-01-06 08:00:00
+U5,Potsdamer Platz,390,0,2024-01-06 09:00:00
+U3,Potsdamer Platz,307,2,2024-01-06 10:00:00
+U5,Alexanderplatz,298,0,2024-01-06 11:00:00
+U4,Zoo,498,0,2024-01-06 12:00:00
+U5,Friedrichstraße,380,1,2024-01-06 13:00:00
+U3,Hauptbahnhof,372,5,2024-01-06 14:00:00
+U3,Potsdamer Platz,229,0,2024-01-06 15:00:00
+U4,Potsdamer Platz,239,0,2024-01-06 16:00:00
+U2,Hauptbahnhof,456,0,2024-01-06 17:00:00
+U2,Friedrichstraße,203,0,2024-01-06 18:00:00
+U5,Friedrichstraße,245,1,2024-01-06 19:00:00
+U1,Zoo,360,0,2024-01-06 20:00:00
+U5,Zoo,311,0,2024-01-06 21:00:00
+U4,Alexanderplatz,468,0,2024-01-06 22:00:00
+U4,Potsdamer Platz,455,0,2024-01-06 23:00:00
+U4,Zoo,476,0,2024-01-07 00:00:00
+U4,Friedrichstraße,192,2,2024-01-07 01:00:00
+U4,Hauptbahnhof,391,0,2024-01-07 02:00:00
+U3,Friedrichstraße,365,2,2024-01-07 03:00:00
+U2,Potsdamer Platz,150,2,2024-01-07 04:00:00
+U4,Friedrichstraße,293,0,2024-01-07 05:00:00
+U1,Alexanderplatz,61,0,2024-01-07 06:00:00
+U1,Potsdamer Platz,288,0,2024-01-07 07:00:00
+U1,Hauptbahnhof,98,0,2024-01-07 08:00:00
+U1,Alexanderplatz,91,0,2024-01-07 09:00:00
+U3,Potsdamer Platz,215,0,2024-01-07 10:00:00
+U1,Hauptbahnhof,131,0,2024-01-07 11:00:00
+U4,Alexanderplatz,478,2,2024-01-07 12:00:00
+U5,Alexanderplatz,340,0,2024-01-07 13:00:00
+U1,Potsdamer Platz,207,2,2024-01-07 14:00:00
+U3,Zoo,265,0,2024-01-07 15:00:00
+U3,Alexanderplatz,207,2,2024-01-07 16:00:00
+U1,Alexanderplatz,183,0,2024-01-07 17:00:00
+U5,Hauptbahnhof,116,0,2024-01-07 18:00:00
+U1,Friedrichstraße,385,1,2024-01-07 19:00:00
+U3,Potsdamer Platz,56,0,2024-01-07 20:00:00
+U2,Potsdamer Platz,485,0,2024-01-07 21:00:00
+U4,Zoo,63,5,2024-01-07 22:00:00
+U3,Zoo,122,0,2024-01-07 23:00:00
+U1,Potsdamer Platz,448,0,2024-01-08 00:00:00
+U4,Zoo,454,1,2024-01-08 01:00:00
+U1,Hauptbahnhof,212,2,2024-01-08 02:00:00
+U1,Potsdamer Platz,115,1,2024-01-08 03:00:00
+U2,Zoo,396,0,2024-01-08 04:00:00
+U4,Potsdamer Platz,179,1,2024-01-08 05:00:00
+U4,Friedrichstraße,468,0,2024-01-08 06:00:00
+U2,Alexanderplatz,255,1,2024-01-08 07:00:00
+U3,Potsdamer Platz,325,10,2024-01-08 08:00:00
+U1,Alexanderplatz,305,1,2024-01-08 09:00:00
+U5,Zoo,315,2,2024-01-08 10:00:00
+U1,Alexanderplatz,74,0,2024-01-08 11:00:00
+U1,Potsdamer Platz,499,1,2024-01-08 12:00:00
+U3,Friedrichstraße,330,2,2024-01-08 13:00:00
+U1,Zoo,302,0,2024-01-08 14:00:00
+U2,Potsdamer Platz,359,2,2024-01-08 15:00:00
+U2,Zoo,338,0,2024-01-08 16:00:00
+U4,Hauptbahnhof,213,1,2024-01-08 17:00:00
+U5,Alexanderplatz,144,2,2024-01-08 18:00:00
+U1,Hauptbahnhof,319,1,2024-01-08 19:00:00
+U1,Potsdamer Platz,370,0,2024-01-08 20:00:00
+U3,Friedrichstraße,159,0,2024-01-08 21:00:00
+U2,Zoo,385,0,2024-01-08 22:00:00
+U5,Alexanderplatz,359,5,2024-01-08 23:00:00
+U4,Zoo,287,0,2024-01-09 00:00:00
+U2,Potsdamer Platz,430,0,2024-01-09 01:00:00
+U4,Zoo,485,1,2024-01-09 02:00:00
+U3,Alexanderplatz,436,0,2024-01-09 03:00:00
+U3,Potsdamer Platz,474,1,2024-01-09 04:00:00
+U1,Zoo,439,1,2024-01-09 05:00:00
+U5,Friedrichstraße,74,2,2024-01-09 06:00:00
+U4,Potsdamer Platz,190,0,2024-01-09 07:00:00
+U2,Potsdamer Platz,166,0,2024-01-09 08:00:00
+U3,Friedrichstraße,441,0,2024-01-09 09:00:00
+U1,Hauptbahnhof,454,0,2024-01-09 10:00:00
+U1,Alexanderplatz,74,0,2024-01-09 11:00:00
+U4,Hauptbahnhof,128,0,2024-01-09 12:00:00
+U3,Zoo,117,1,2024-01-09 13:00:00
+U5,Friedrichstraße,222,1,2024-01-09 14:00:00
+U3,Hauptbahnhof,493,0,2024-01-09 15:00:00
+U4,Potsdamer Platz,61,2,2024-01-09 16:00:00
+U4,Zoo,337,10,2024-01-09 17:00:00
+U3,Zoo,177,2,2024-01-09 18:00:00
+U4,Hauptbahnhof,145,1,2024-01-09 19:00:00
+U3,Hauptbahnhof,141,0,2024-01-09 20:00:00
+U2,Friedrichstraße,190,0,2024-01-09 21:00:00
+U3,Alexanderplatz,80,0,2024-01-09 22:00:00
+U3,Hauptbahnhof,383,0,2024-01-09 23:00:00
+U4,Hauptbahnhof,69,5,2024-01-10 00:00:00
+U4,Potsdamer Platz,195,2,2024-01-10 01:00:00
+U1,Zoo,365,0,2024-01-10 02:00:00
+U1,Alexanderplatz,496,0,2024-01-10 03:00:00
+U2,Potsdamer Platz,439,2,2024-01-10 04:00:00
+U1,Friedrichstraße,209,0,2024-01-10 05:00:00
+U3,Friedrichstraße,398,0,2024-01-10 06:00:00
+U4,Hauptbahnhof,92,2,2024-01-10 07:00:00
+U1,Hauptbahnhof,303,0,2024-01-10 08:00:00
+U1,Friedrichstraße,179,0,2024-01-10 09:00:00
+U2,Hauptbahnhof,109,0,2024-01-10 10:00:00
+U2,Alexanderplatz,200,2,2024-01-10 11:00:00
+U3,Hauptbahnhof,336,0,2024-01-10 12:00:00
+U4,Zoo,54,0,2024-01-10 13:00:00
+U2,Hauptbahnhof,467,0,2024-01-10 14:00:00
+U1,Potsdamer Platz,315,0,2024-01-10 15:00:00
+U4,Alexanderplatz,394,0,2024-01-10 16:00:00
+U4,Potsdamer Platz,179,1,2024-01-10 17:00:00
+U1,Potsdamer Platz,431,0,2024-01-10 18:00:00
+U2,Zoo,316,2,2024-01-10 19:00:00
+U1,Alexanderplatz,227,0,2024-01-10 20:00:00
+U4,Alexanderplatz,302,0,2024-01-10 21:00:00
+U5,Alexanderplatz,464,0,2024-01-10 22:00:00
+U5,Alexanderplatz,105,0,2024-01-10 23:00:00
+U3,Alexanderplatz,132,0,2024-01-11 00:00:00
+U1,Zoo,442,0,2024-01-11 01:00:00
+U1,Hauptbahnhof,148,0,2024-01-11 02:00:00
+U3,Potsdamer Platz,198,1,2024-01-11 03:00:00
+U3,Alexanderplatz,378,0,2024-01-11 04:00:00
+U3,Hauptbahnhof,205,1,2024-01-11 05:00:00
+U4,Hauptbahnhof,239,5,2024-01-11 06:00:00
+U1,Potsdamer Platz,420,0,2024-01-11 07:00:00
+U4,Zoo,312,0,2024-01-11 08:00:00
+U3,Friedrichstraße,129,0,2024-01-11 09:00:00
+U1,Friedrichstraße,449,0,2024-01-11 10:00:00
+U4,Hauptbahnhof,301,0,2024-01-11 11:00:00
+U4,Potsdamer Platz,146,1,2024-01-11 12:00:00
+U3,Friedrichstraße,309,0,2024-01-11 13:00:00
+U1,Hauptbahnhof,309,0,2024-01-11 14:00:00
+U3,Zoo,152,2,2024-01-11 15:00:00
+U1,Friedrichstraße,89,0,2024-01-11 16:00:00
+U5,Hauptbahnhof,322,2,2024-01-11 17:00:00
+U2,Hauptbahnhof,150,0,2024-01-11 18:00:00
+U2,Alexanderplatz,408,0,2024-01-11 19:00:00
+U2,Zoo,429,0,2024-01-11 20:00:00
+U3,Alexanderplatz,357,0,2024-01-11 21:00:00
+U5,Potsdamer Platz,270,10,2024-01-11 22:00:00
+U1,Alexanderplatz,357,0,2024-01-11 23:00:00
+U4,Alexanderplatz,469,10,2024-01-12 00:00:00
+U1,Friedrichstraße,173,0,2024-01-12 01:00:00
+U4,Hauptbahnhof,471,0,2024-01-12 02:00:00
+U1,Zoo,280,0,2024-01-12 03:00:00
+U5,Alexanderplatz,227,0,2024-01-12 04:00:00
+U4,Zoo,112,5,2024-01-12 05:00:00
+U3,Alexanderplatz,165,0,2024-01-12 06:00:00
+U1,Potsdamer Platz,240,0,2024-01-12 07:00:00
+U1,Alexanderplatz,111,0,2024-01-12 08:00:00
+U4,Friedrichstraße,305,0,2024-01-12 09:00:00
+U3,Hauptbahnhof,56,0,2024-01-12 10:00:00
+U3,Potsdamer Platz,204,0,2024-01-12 11:00:00
+U5,Alexanderplatz,141,2,2024-01-12 12:00:00
+U3,Zoo,63,0,2024-01-12 13:00:00
+U3,Potsdamer Platz,278,0,2024-01-12 14:00:00
+U3,Potsdamer Platz,135,0,2024-01-12 15:00:00
+U2,Alexanderplatz,182,0,2024-01-12 16:00:00
+U5,Potsdamer Platz,232,10,2024-01-12 17:00:00
+U1,Zoo,435,0,2024-01-12 18:00:00
+U4,Potsdamer Platz,111,0,2024-01-12 19:00:00
+U1,Zoo,268,1,2024-01-12 20:00:00
+U5,Alexanderplatz,454,0,2024-01-12 21:00:00
+U4,Hauptbahnhof,295,0,2024-01-12 22:00:00
+U5,Potsdamer Platz,279,10,2024-01-12 23:00:00
+U3,Hauptbahnhof,128,1,2024-01-13 00:00:00
+U4,Zoo,198,10,2024-01-13 01:00:00
+U3,Potsdamer Platz,187,0,2024-01-13 02:00:00
+U1,Friedrichstraße,363,0,2024-01-13 03:00:00
+U1,Hauptbahnhof,425,0,2024-01-13 04:00:00
+U4,Potsdamer Platz,472,0,2024-01-13 05:00:00
+U4,Hauptbahnhof,438,2,2024-01-13 06:00:00
+U5,Potsdamer Platz,114,0,2024-01-13 07:00:00
+U5,Alexanderplatz,62,2,2024-01-13 08:00:00
+U3,Hauptbahnhof,262,1,2024-01-13 09:00:00
+U4,Friedrichstraße,291,0,2024-01-13 10:00:00
+U1,Friedrichstraße,262,0,2024-01-13 11:00:00
+U5,Zoo,230,1,2024-01-13 12:00:00
+U5,Potsdamer Platz,387,0,2024-01-13 13:00:00
+U1,Hauptbahnhof,222,2,2024-01-13 14:00:00
+U5,Zoo,209,0,2024-01-13 15:00:00
+U3,Hauptbahnhof,213,0,2024-01-13 16:00:00
+U4,Potsdamer Platz,237,0,2024-01-13 17:00:00
+U1,Friedrichstraße,444,10,2024-01-13 18:00:00
+U4,Alexanderplatz,240,0,2024-01-13 19:00:00
+U5,Friedrichstraße,454,2,2024-01-13 20:00:00
+U5,Zoo,357,0,2024-01-13 21:00:00
+U1,Alexanderplatz,305,1,2024-01-13 22:00:00
+U3,Zoo,232,1,2024-01-13 23:00:00
+U2,Potsdamer Platz,166,0,2024-01-14 00:00:00
+U1,Alexanderplatz,331,0,2024-01-14 01:00:00
+U2,Zoo,245,1,2024-01-14 02:00:00
+U2,Potsdamer Platz,83,0,2024-01-14 03:00:00
+U3,Friedrichstraße,101,1,2024-01-14 04:00:00
+U2,Potsdamer Platz,161,0,2024-01-14 05:00:00
+U2,Hauptbahnhof,301,2,2024-01-14 06:00:00
+U3,Potsdamer Platz,131,1,2024-01-14 07:00:00
+U2,Potsdamer Platz,281,5,2024-01-14 08:00:00
+U2,Hauptbahnhof,276,0,2024-01-14 09:00:00
+U2,Zoo,282,0,2024-01-14 10:00:00
+U1,Zoo,270,0,2024-01-14 11:00:00
+U1,Potsdamer Platz,485,0,2024-01-14 12:00:00
+U1,Hauptbahnhof,462,0,2024-01-14 13:00:00
+U3,Hauptbahnhof,471,0,2024-01-14 14:00:00
+U5,Friedrichstraße,91,1,2024-01-14 15:00:00
+U2,Zoo,70,0,2024-01-14 16:00:00
+U2,Alexanderplatz,91,0,2024-01-14 17:00:00
+U3,Zoo,446,1,2024-01-14 18:00:00
+U2,Zoo,162,0,2024-01-14 19:00:00
+U1,Friedrichstraße,154,0,2024-01-14 20:00:00
+U5,Alexanderplatz,241,10,2024-01-14 21:00:00
+U4,Friedrichstraße,66,5,2024-01-14 22:00:00
+U2,Alexanderplatz,169,0,2024-01-14 23:00:00
+U1,Potsdamer Platz,442,0,2024-01-15 00:00:00
+U4,Alexanderplatz,474,1,2024-01-15 01:00:00
+U5,Friedrichstraße,178,0,2024-01-15 02:00:00
+U4,Zoo,179,0,2024-01-15 03:00:00
+U1,Alexanderplatz,109,0,2024-01-15 04:00:00
+U4,Alexanderplatz,97,0,2024-01-15 05:00:00
+U3,Hauptbahnhof,78,0,2024-01-15 06:00:00
+U4,Zoo,146,0,2024-01-15 07:00:00
+U2,Potsdamer Platz,59,1,2024-01-15 08:00:00
+U2,Friedrichstraße,291,5,2024-01-15 09:00:00
+U3,Potsdamer Platz,363,0,2024-01-15 10:00:00
+U1,Zoo,493,1,2024-01-15 11:00:00
+U2,Alexanderplatz,281,2,2024-01-15 12:00:00
+U5,Alexanderplatz,326,0,2024-01-15 13:00:00
+U2,Zoo,333,0,2024-01-15 14:00:00
+U2,Alexanderplatz,252,1,2024-01-15 15:00:00
+U1,Alexanderplatz,296,0,2024-01-15 16:00:00
+U4,Alexanderplatz,339,2,2024-01-15 17:00:00
+U2,Friedrichstraße,313,0,2024-01-15 18:00:00
+U3,Friedrichstraße,492,10,2024-01-15 19:00:00
+U4,Hauptbahnhof,263,0,2024-01-15 20:00:00
+U5,Potsdamer Platz,249,0,2024-01-15 21:00:00
+U1,Zoo,482,1,2024-01-15 22:00:00
+U5,Zoo,128,0,2024-01-15 23:00:00
+U4,Zoo,450,0,2024-01-16 00:00:00
+U4,Hauptbahnhof,493,0,2024-01-16 01:00:00
+U4,Friedrichstraße,392,0,2024-01-16 02:00:00
+U5,Hauptbahnhof,393,0,2024-01-16 03:00:00
+U4,Zoo,222,10,2024-01-16 04:00:00
+U5,Potsdamer Platz,118,0,2024-01-16 05:00:00
+U4,Alexanderplatz,465,1,2024-01-16 06:00:00
+U3,Friedrichstraße,477,1,2024-01-16 07:00:00
+U4,Friedrichstraße,498,5,2024-01-16 08:00:00
+U5,Hauptbahnhof,136,0,2024-01-16 09:00:00
+U2,Friedrichstraße,150,2,2024-01-16 10:00:00
+U4,Zoo,57,0,2024-01-16 11:00:00
+U2,Zoo,382,1,2024-01-16 12:00:00
+U3,Hauptbahnhof,249,1,2024-01-16 13:00:00
+U1,Zoo,136,2,2024-01-16 14:00:00
+U3,Potsdamer Platz,92,0,2024-01-16 15:00:00
+U4,Hauptbahnhof,434,1,2024-01-16 16:00:00
+U2,Potsdamer Platz,158,0,2024-01-16 17:00:00
+U2,Alexanderplatz,484,1,2024-01-16 18:00:00
+U5,Potsdamer Platz,457,10,2024-01-16 19:00:00
+U2,Alexanderplatz,201,0,2024-01-16 20:00:00
+U5,Alexanderplatz,66,10,2024-01-16 21:00:00
+U1,Potsdamer Platz,182,0,2024-01-16 22:00:00
+U4,Hauptbahnhof,197,0,2024-01-16 23:00:00
+U5,Zoo,326,0,2024-01-17 00:00:00
+U1,Zoo,281,0,2024-01-17 01:00:00
+U2,Alexanderplatz,363,1,2024-01-17 02:00:00
+U2,Alexanderplatz,464,0,2024-01-17 03:00:00
+U1,Hauptbahnhof,415,0,2024-01-17 04:00:00
+U2,Friedrichstraße,277,5,2024-01-17 05:00:00
+U1,Potsdamer Platz,188,2,2024-01-17 06:00:00
+U5,Alexanderplatz,485,2,2024-01-17 07:00:00
+U5,Zoo,448,2,2024-01-17 08:00:00
+U1,Hauptbahnhof,260,1,2024-01-17 09:00:00
+U5,Potsdamer Platz,440,0,2024-01-17 10:00:00
+U5,Hauptbahnhof,77,0,2024-01-17 11:00:00
+U5,Potsdamer Platz,100,1,2024-01-17 12:00:00
+U3,Potsdamer Platz,491,0,2024-01-17 13:00:00
+U4,Alexanderplatz,310,1,2024-01-17 14:00:00
+U2,Hauptbahnhof,310,0,2024-01-17 15:00:00
+U3,Hauptbahnhof,399,0,2024-01-17 16:00:00
+U5,Zoo,401,0,2024-01-17 17:00:00
+U1,Zoo,57,1,2024-01-17 18:00:00
+U5,Alexanderplatz,369,0,2024-01-17 19:00:00
+U4,Alexanderplatz,187,1,2024-01-17 20:00:00
+U5,Friedrichstraße,87,0,2024-01-17 21:00:00
+U1,Zoo,160,0,2024-01-17 22:00:00
+U4,Potsdamer Platz,417,2,2024-01-17 23:00:00
+U5,Hauptbahnhof,269,1,2024-01-18 00:00:00
+U4,Alexanderplatz,386,0,2024-01-18 01:00:00
+U2,Hauptbahnhof,272,2,2024-01-18 02:00:00
+U2,Hauptbahnhof,185,0,2024-01-18 03:00:00
+U5,Friedrichstraße,305,0,2024-01-18 04:00:00
+U4,Zoo,409,0,2024-01-18 05:00:00
+U1,Alexanderplatz,458,1,2024-01-18 06:00:00
+U5,Hauptbahnhof,378,1,2024-01-18 07:00:00
+U2,Alexanderplatz,499,0,2024-01-18 08:00:00
+U2,Potsdamer Platz,483,2,2024-01-18 09:00:00
+U5,Friedrichstraße,98,0,2024-01-18 10:00:00
+U4,Potsdamer Platz,341,0,2024-01-18 11:00:00
+U2,Alexanderplatz,431,0,2024-01-18 12:00:00
+U4,Alexanderplatz,373,0,2024-01-18 13:00:00
+U2,Zoo,127,0,2024-01-18 14:00:00
+U2,Hauptbahnhof,154,0,2024-01-18 15:00:00
+U3,Hauptbahnhof,218,2,2024-01-18 16:00:00
+U2,Potsdamer Platz,266,0,2024-01-18 17:00:00
+U1,Friedrichstraße,427,0,2024-01-18 18:00:00
+U5,Hauptbahnhof,168,0,2024-01-18 19:00:00
+U5,Zoo,239,0,2024-01-18 20:00:00
+U4,Potsdamer Platz,304,0,2024-01-18 21:00:00
+U2,Potsdamer Platz,419,1,2024-01-18 22:00:00
+U1,Zoo,315,0,2024-01-18 23:00:00
+U4,Friedrichstraße,198,1,2024-01-19 00:00:00
+U3,Zoo,213,2,2024-01-19 01:00:00
+U4,Friedrichstraße,189,0,2024-01-19 02:00:00
+U4,Zoo,396,2,2024-01-19 03:00:00
+U2,Zoo,307,0,2024-01-19 04:00:00
+U3,Alexanderplatz,423,1,2024-01-19 05:00:00
+U4,Potsdamer Platz,318,0,2024-01-19 06:00:00
+U1,Zoo,230,0,2024-01-19 07:00:00
+U1,Zoo,209,0,2024-01-19 08:00:00
+U5,Hauptbahnhof,400,0,2024-01-19 09:00:00
+U3,Potsdamer Platz,449,0,2024-01-19 10:00:00
+U3,Hauptbahnhof,337,0,2024-01-19 11:00:00
+U5,Potsdamer Platz,337,0,2024-01-19 12:00:00
+U4,Hauptbahnhof,429,5,2024-01-19 13:00:00
+U3,Zoo,275,1,2024-01-19 14:00:00
+U1,Zoo,60,0,2024-01-19 15:00:00
+U1,Alexanderplatz,59,0,2024-01-19 16:00:00
+U2,Hauptbahnhof,320,2,2024-01-19 17:00:00
+U3,Friedrichstraße,322,2,2024-01-19 18:00:00
+U4,Alexanderplatz,473,1,2024-01-19 19:00:00
+U5,Hauptbahnhof,451,0,2024-01-19 20:00:00
+U5,Hauptbahnhof,232,0,2024-01-19 21:00:00
+U4,Alexanderplatz,202,0,2024-01-19 22:00:00
+U2,Zoo,364,0,2024-01-19 23:00:00
+U5,Hauptbahnhof,383,1,2024-01-20 00:00:00
+U3,Zoo,173,1,2024-01-20 01:00:00
+U2,Alexanderplatz,163,0,2024-01-20 02:00:00
+U3,Zoo,327,2,2024-01-20 03:00:00
+U1,Potsdamer Platz,463,0,2024-01-20 04:00:00
+U2,Friedrichstraße,262,0,2024-01-20 05:00:00
+U5,Hauptbahnhof,221,0,2024-01-20 06:00:00
+U2,Friedrichstraße,337,5,2024-01-20 07:00:00
+U2,Zoo,484,0,2024-01-20 08:00:00
+U2,Hauptbahnhof,223,5,2024-01-20 09:00:00
+U2,Zoo,162,2,2024-01-20 10:00:00
+U3,Potsdamer Platz,425,0,2024-01-20 11:00:00
+U1,Alexanderplatz,454,0,2024-01-20 12:00:00
+U4,Hauptbahnhof,171,2,2024-01-20 13:00:00
+U2,Potsdamer Platz,81,0,2024-01-20 14:00:00
+U5,Potsdamer Platz,271,5,2024-01-20 15:00:00
+U2,Hauptbahnhof,168,5,2024-01-20 16:00:00
+U5,Zoo,88,0,2024-01-20 17:00:00
+U3,Potsdamer Platz,317,0,2024-01-20 18:00:00
+U5,Friedrichstraße,282,5,2024-01-20 19:00:00
+U4,Potsdamer Platz,480,1,2024-01-20 20:00:00
+U1,Zoo,67,0,2024-01-20 21:00:00
+U5,Zoo,198,0,2024-01-20 22:00:00
+U5,Friedrichstraße,446,0,2024-01-20 23:00:00
+U1,Potsdamer Platz,198,5,2024-01-21 00:00:00
+U4,Zoo,175,2,2024-01-21 01:00:00
+U2,Hauptbahnhof,441,1,2024-01-21 02:00:00
+U5,Alexanderplatz,351,0,2024-01-21 03:00:00
+U1,Alexanderplatz,409,0,2024-01-21 04:00:00
+U3,Alexanderplatz,287,2,2024-01-21 05:00:00
+U1,Potsdamer Platz,184,0,2024-01-21 06:00:00
+U3,Friedrichstraße,200,0,2024-01-21 07:00:00
+U4,Zoo,285,0,2024-01-21 08:00:00
+U2,Hauptbahnhof,273,1,2024-01-21 09:00:00
+U1,Hauptbahnhof,252,5,2024-01-21 10:00:00
+U5,Potsdamer Platz,305,0,2024-01-21 11:00:00
+U4,Alexanderplatz,135,0,2024-01-21 12:00:00
+U1,Potsdamer Platz,199,1,2024-01-21 13:00:00
+U5,Friedrichstraße,284,10,2024-01-21 14:00:00
+U1,Friedrichstraße,394,0,2024-01-21 15:00:00
+U3,Zoo,71,0,2024-01-21 16:00:00
+U1,Zoo,397,0,2024-01-21 17:00:00
+U1,Friedrichstraße,334,2,2024-01-21 18:00:00
+U1,Friedrichstraße,318,0,2024-01-21 19:00:00
+U4,Friedrichstraße,307,0,2024-01-21 20:00:00
+U1,Potsdamer Platz,78,1,2024-01-21 21:00:00
+U5,Friedrichstraße,262,1,2024-01-21 22:00:00
+U3,Hauptbahnhof,485,0,2024-01-21 23:00:00
+U3,Alexanderplatz,332,2,2024-01-22 00:00:00
+U1,Friedrichstraße,99,0,2024-01-22 01:00:00
+U4,Alexanderplatz,144,0,2024-01-22 02:00:00
+U4,Potsdamer Platz,456,0,2024-01-22 03:00:00
+U5,Alexanderplatz,137,1,2024-01-22 04:00:00
+U1,Potsdamer Platz,93,0,2024-01-22 05:00:00
+U3,Hauptbahnhof,327,2,2024-01-22 06:00:00
+U4,Potsdamer Platz,220,1,2024-01-22 07:00:00
+U1,Potsdamer Platz,470,1,2024-01-22 08:00:00
+U4,Zoo,238,1,2024-01-22 09:00:00
+U4,Friedrichstraße,402,1,2024-01-22 10:00:00
+U3,Friedrichstraße,233,0,2024-01-22 11:00:00
+U2,Hauptbahnhof,52,0,2024-01-22 12:00:00
+U5,Hauptbahnhof,240,5,2024-01-22 13:00:00
+U5,Friedrichstraße,167,0,2024-01-22 14:00:00
+U3,Zoo,68,1,2024-01-22 15:00:00
+U4,Friedrichstraße,72,10,2024-01-22 16:00:00
+U1,Zoo,462,0,2024-01-22 17:00:00
+U4,Hauptbahnhof,79,1,2024-01-22 18:00:00
+U3,Alexanderplatz,344,0,2024-01-22 19:00:00
+U5,Hauptbahnhof,157,0,2024-01-22 20:00:00
+U4,Hauptbahnhof,416,0,2024-01-22 21:00:00
+U5,Potsdamer Platz,330,0,2024-01-22 22:00:00
+U1,Potsdamer Platz,177,1,2024-01-22 23:00:00
+U5,Potsdamer Platz,278,2,2024-01-23 00:00:00
+U5,Potsdamer Platz,160,1,2024-01-23 01:00:00
+U2,Zoo,185,0,2024-01-23 02:00:00
+U2,Friedrichstraße,411,0,2024-01-23 03:00:00
+U2,Alexanderplatz,235,1,2024-01-23 04:00:00
+U5,Hauptbahnhof,193,0,2024-01-23 05:00:00
+U3,Zoo,121,5,2024-01-23 06:00:00
+U5,Alexanderplatz,178,2,2024-01-23 07:00:00
+U3,Zoo,413,1,2024-01-23 08:00:00
+U3,Zoo,310,5,2024-01-23 09:00:00
+U2,Hauptbahnhof,52,0,2024-01-23 10:00:00
+U4,Friedrichstraße,498,1,2024-01-23 11:00:00
+U1,Potsdamer Platz,437,0,2024-01-23 12:00:00
+U2,Friedrichstraße,153,5,2024-01-23 13:00:00
+U2,Hauptbahnhof,273,0,2024-01-23 14:00:00
+U4,Hauptbahnhof,369,1,2024-01-23 15:00:00
+U1,Hauptbahnhof,411,2,2024-01-23 16:00:00
+U5,Alexanderplatz,403,0,2024-01-23 17:00:00
+U5,Friedrichstraße,59,0,2024-01-23 18:00:00
+U2,Friedrichstraße,454,1,2024-01-23 19:00:00
+U1,Zoo,433,0,2024-01-23 20:00:00
+U2,Zoo,351,0,2024-01-23 21:00:00
+U3,Zoo,280,0,2024-01-23 22:00:00
+U2,Hauptbahnhof,268,0,2024-01-23 23:00:00
+U2,Friedrichstraße,460,2,2024-01-24 00:00:00
+U5,Hauptbahnhof,115,0,2024-01-24 01:00:00
+U5,Alexanderplatz,474,0,2024-01-24 02:00:00
+U5,Zoo,161,0,2024-01-24 03:00:00
+U3,Hauptbahnhof,62,0,2024-01-24 04:00:00
+U5,Hauptbahnhof,442,0,2024-01-24 05:00:00
+U1,Alexanderplatz,469,0,2024-01-24 06:00:00
+U4,Potsdamer Platz,135,0,2024-01-24 07:00:00
+U1,Friedrichstraße,283,0,2024-01-24 08:00:00
+U1,Potsdamer Platz,139,1,2024-01-24 09:00:00
+U5,Zoo,363,0,2024-01-24 10:00:00
+U4,Hauptbahnhof,103,1,2024-01-24 11:00:00
+U4,Alexanderplatz,61,0,2024-01-24 12:00:00
+U4,Alexanderplatz,258,0,2024-01-24 13:00:00
+U3,Friedrichstraße,63,1,2024-01-24 14:00:00
+U5,Potsdamer Platz,170,0,2024-01-24 15:00:00
+U4,Friedrichstraße,467,2,2024-01-24 16:00:00
+U3,Hauptbahnhof,486,1,2024-01-24 17:00:00
+U2,Friedrichstraße,426,0,2024-01-24 18:00:00
+U2,Alexanderplatz,69,2,2024-01-24 19:00:00
+U3,Alexanderplatz,124,1,2024-01-24 20:00:00
+U3,Zoo,449,0,2024-01-24 21:00:00
+U5,Zoo,292,0,2024-01-24 22:00:00
+U5,Hauptbahnhof,272,0,2024-01-24 23:00:00
+U2,Potsdamer Platz,119,2,2024-01-25 00:00:00
+U4,Friedrichstraße,361,1,2024-01-25 01:00:00
+U2,Hauptbahnhof,260,5,2024-01-25 02:00:00
+U4,Zoo,150,1,2024-01-25 03:00:00
+U4,Friedrichstraße,235,0,2024-01-25 04:00:00
+U5,Zoo,181,0,2024-01-25 05:00:00
+U1,Friedrichstraße,160,1,2024-01-25 06:00:00
+U1,Potsdamer Platz,430,0,2024-01-25 07:00:00
+U3,Hauptbahnhof,181,10,2024-01-25 08:00:00
+U5,Friedrichstraße,69,0,2024-01-25 09:00:00
+U4,Alexanderplatz,443,0,2024-01-25 10:00:00
+U1,Alexanderplatz,73,1,2024-01-25 11:00:00
+U4,Friedrichstraße,276,1,2024-01-25 12:00:00
+U1,Friedrichstraße,203,0,2024-01-25 13:00:00
+U1,Friedrichstraße,342,1,2024-01-25 14:00:00
+U1,Alexanderplatz,279,0,2024-01-25 15:00:00
+U5,Alexanderplatz,359,1,2024-01-25 16:00:00
+U2,Friedrichstraße,408,1,2024-01-25 17:00:00
+U4,Zoo,454,2,2024-01-25 18:00:00
+U5,Zoo,251,2,2024-01-25 19:00:00
+U5,Potsdamer Platz,87,0,2024-01-25 20:00:00
+U5,Hauptbahnhof,479,0,2024-01-25 21:00:00
+U5,Zoo,309,10,2024-01-25 22:00:00
+U5,Alexanderplatz,237,0,2024-01-25 23:00:00
+U3,Zoo,106,5,2024-01-26 00:00:00
+U4,Potsdamer Platz,478,0,2024-01-26 01:00:00
+U5,Potsdamer Platz,69,1,2024-01-26 02:00:00
+U4,Hauptbahnhof,322,2,2024-01-26 03:00:00
+U3,Zoo,168,5,2024-01-26 04:00:00
+U3,Alexanderplatz,120,0,2024-01-26 05:00:00
+U4,Alexanderplatz,53,1,2024-01-26 06:00:00
+U1,Friedrichstraße,270,0,2024-01-26 07:00:00
+U2,Alexanderplatz,63,0,2024-01-26 08:00:00
+U1,Hauptbahnhof,52,1,2024-01-26 09:00:00
+U1,Hauptbahnhof,265,1,2024-01-26 10:00:00
+U1,Alexanderplatz,278,5,2024-01-26 11:00:00
+U5,Alexanderplatz,385,0,2024-01-26 12:00:00
+U3,Friedrichstraße,235,0,2024-01-26 13:00:00
+U1,Alexanderplatz,104,0,2024-01-26 14:00:00
+U3,Friedrichstraße,437,0,2024-01-26 15:00:00
+U4,Friedrichstraße,425,0,2024-01-26 16:00:00
+U2,Alexanderplatz,303,1,2024-01-26 17:00:00
+U4,Potsdamer Platz,73,0,2024-01-26 18:00:00
+U4,Potsdamer Platz,211,5,2024-01-26 19:00:00
+U5,Friedrichstraße,207,10,2024-01-26 20:00:00
+U2,Alexanderplatz,131,1,2024-01-26 21:00:00
+U4,Potsdamer Platz,452,5,2024-01-26 22:00:00
+U4,Alexanderplatz,208,1,2024-01-26 23:00:00
+U2,Alexanderplatz,237,0,2024-01-27 00:00:00
+U2,Alexanderplatz,109,0,2024-01-27 01:00:00
+U4,Zoo,452,0,2024-01-27 02:00:00
+U2,Alexanderplatz,354,0,2024-01-27 03:00:00
+U4,Zoo,368,2,2024-01-27 04:00:00
+U4,Friedrichstraße,415,0,2024-01-27 05:00:00
+U5,Potsdamer Platz,260,2,2024-01-27 06:00:00
+U1,Potsdamer Platz,455,1,2024-01-27 07:00:00
+U4,Potsdamer Platz,201,0,2024-01-27 08:00:00
+U3,Potsdamer Platz,158,10,2024-01-27 09:00:00
+U1,Potsdamer Platz,125,0,2024-01-27 10:00:00
+U1,Potsdamer Platz,79,0,2024-01-27 11:00:00
+U1,Potsdamer Platz,363,1,2024-01-27 12:00:00
+U5,Friedrichstraße,166,0,2024-01-27 13:00:00
+U4,Alexanderplatz,464,1,2024-01-27 14:00:00
+U5,Hauptbahnhof,405,0,2024-01-27 15:00:00
+U4,Zoo,241,0,2024-01-27 16:00:00
+U5,Hauptbahnhof,68,10,2024-01-27 17:00:00
+U5,Hauptbahnhof,481,0,2024-01-27 18:00:00
+U3,Alexanderplatz,222,0,2024-01-27 19:00:00
+U5,Alexanderplatz,277,0,2024-01-27 20:00:00
+U2,Alexanderplatz,399,5,2024-01-27 21:00:00
+U3,Potsdamer Platz,232,0,2024-01-27 22:00:00
+U5,Friedrichstraße,162,0,2024-01-27 23:00:00
+U1,Potsdamer Platz,232,0,2024-01-28 00:00:00
+U2,Friedrichstraße,195,0,2024-01-28 01:00:00
+U2,Friedrichstraße,368,2,2024-01-28 02:00:00
+U2,Hauptbahnhof,165,1,2024-01-28 03:00:00
+U3,Hauptbahnhof,162,0,2024-01-28 04:00:00
+U5,Friedrichstraße,300,1,2024-01-28 05:00:00
+U5,Friedrichstraße,300,0,2024-01-28 06:00:00
+U1,Potsdamer Platz,352,10,2024-01-28 07:00:00
+U1,Potsdamer Platz,362,10,2024-01-28 08:00:00
+U2,Hauptbahnhof,167,0,2024-01-28 09:00:00
+U1,Alexanderplatz,350,2,2024-01-28 10:00:00
+U3,Friedrichstraße,210,1,2024-01-28 11:00:00
+U5,Potsdamer Platz,450,0,2024-01-28 12:00:00
+U2,Hauptbahnhof,247,0,2024-01-28 13:00:00
+U1,Potsdamer Platz,309,0,2024-01-28 14:00:00
+U3,Friedrichstraße,197,1,2024-01-28 15:00:00
+U3,Friedrichstraße,289,10,2024-01-28 16:00:00
+U1,Zoo,96,1,2024-01-28 17:00:00
+U5,Alexanderplatz,448,2,2024-01-28 18:00:00
+U1,Zoo,247,1,2024-01-28 19:00:00
+U2,Hauptbahnhof,96,2,2024-01-28 20:00:00
+U1,Potsdamer Platz,127,1,2024-01-28 21:00:00
+U3,Hauptbahnhof,173,0,2024-01-28 22:00:00
+U1,Friedrichstraße,124,0,2024-01-28 23:00:00
+U5,Zoo,408,2,2024-01-29 00:00:00
+U4,Zoo,186,0,2024-01-29 01:00:00
+U1,Zoo,139,2,2024-01-29 02:00:00
+U5,Hauptbahnhof,449,0,2024-01-29 03:00:00
+U5,Friedrichstraße,374,0,2024-01-29 04:00:00
+U3,Potsdamer Platz,110,2,2024-01-29 05:00:00
+U5,Potsdamer Platz,187,0,2024-01-29 06:00:00
+U5,Hauptbahnhof,99,0,2024-01-29 07:00:00
+U5,Zoo,308,0,2024-01-29 08:00:00
+U5,Alexanderplatz,156,2,2024-01-29 09:00:00
+U2,Hauptbahnhof,162,0,2024-01-29 10:00:00
+U2,Hauptbahnhof,399,5,2024-01-29 11:00:00
+U3,Friedrichstraße,303,0,2024-01-29 12:00:00
+U1,Potsdamer Platz,167,10,2024-01-29 13:00:00
+U5,Hauptbahnhof,247,10,2024-01-29 14:00:00
+U1,Hauptbahnhof,386,0,2024-01-29 15:00:00
+U1,Zoo,414,0,2024-01-29 16:00:00
+U3,Zoo,100,0,2024-01-29 17:00:00
+U5,Alexanderplatz,294,1,2024-01-29 18:00:00
+U5,Friedrichstraße,452,0,2024-01-29 19:00:00
+U4,Alexanderplatz,475,0,2024-01-29 20:00:00
+U1,Zoo,84,0,2024-01-29 21:00:00
+U1,Potsdamer Platz,351,0,2024-01-29 22:00:00
+U2,Zoo,459,0,2024-01-29 23:00:00
+U4,Friedrichstraße,118,1,2024-01-30 00:00:00
+U2,Zoo,398,10,2024-01-30 01:00:00
+U2,Friedrichstraße,369,0,2024-01-30 02:00:00
+U2,Friedrichstraße,470,0,2024-01-30 03:00:00
+U3,Friedrichstraße,98,0,2024-01-30 04:00:00
+U3,Friedrichstraße,454,2,2024-01-30 05:00:00
+U2,Friedrichstraße,123,5,2024-01-30 06:00:00
+U4,Potsdamer Platz,241,2,2024-01-30 07:00:00
+U1,Alexanderplatz,310,10,2024-01-30 08:00:00
+U4,Hauptbahnhof,405,0,2024-01-30 09:00:00
+U5,Alexanderplatz,119,2,2024-01-30 10:00:00
+U3,Friedrichstraße,139,1,2024-01-30 11:00:00
+U1,Potsdamer Platz,309,0,2024-01-30 12:00:00
+U1,Zoo,175,10,2024-01-30 13:00:00
+U5,Potsdamer Platz,280,0,2024-01-30 14:00:00
+U5,Friedrichstraße,344,1,2024-01-30 15:00:00
+U2,Potsdamer Platz,468,0,2024-01-30 16:00:00
+U3,Potsdamer Platz,178,0,2024-01-30 17:00:00
+U3,Friedrichstraße,329,1,2024-01-30 18:00:00
+U4,Potsdamer Platz,362,0,2024-01-30 19:00:00
+U2,Hauptbahnhof,149,0,2024-01-30 20:00:00
+U2,Hauptbahnhof,375,0,2024-01-30 21:00:00
+U2,Potsdamer Platz,346,2,2024-01-30 22:00:00
+U2,Zoo,231,0,2024-01-30 23:00:00
+U3,Friedrichstraße,223,0,2024-01-31 00:00:00
+U3,Hauptbahnhof,365,5,2024-01-31 01:00:00
+U2,Zoo,413,2,2024-01-31 02:00:00
+U4,Potsdamer Platz,237,0,2024-01-31 03:00:00
+U1,Zoo,106,1,2024-01-31 04:00:00
+U1,Alexanderplatz,80,2,2024-01-31 05:00:00
+U4,Hauptbahnhof,133,2,2024-01-31 06:00:00
+U2,Potsdamer Platz,201,0,2024-01-31 07:00:00
+U3,Friedrichstraße,85,0,2024-01-31 08:00:00
+U1,Potsdamer Platz,262,0,2024-01-31 09:00:00
+U5,Friedrichstraße,463,0,2024-01-31 10:00:00
+U5,Potsdamer Platz,457,0,2024-01-31 11:00:00
+U4,Zoo,413,0,2024-01-31 12:00:00
+U2,Zoo,155,1,2024-01-31 13:00:00
+U1,Zoo,463,0,2024-01-31 14:00:00
+U2,Alexanderplatz,391,0,2024-01-31 15:00:00
+U1,Friedrichstraße,269,2,2024-01-31 16:00:00
+U4,Zoo,440,0,2024-01-31 17:00:00
+U4,Alexanderplatz,212,0,2024-01-31 18:00:00
+U5,Friedrichstraße,488,2,2024-01-31 19:00:00
+U2,Potsdamer Platz,269,0,2024-01-31 20:00:00
+U5,Alexanderplatz,319,1,2024-01-31 21:00:00
+U2,Hauptbahnhof,169,1,2024-01-31 22:00:00
+U5,Alexanderplatz,443,0,2024-01-31 23:00:00
+U3,Alexanderplatz,385,2,2024-02-01 00:00:00
+U3,Friedrichstraße,449,0,2024-02-01 01:00:00
+U3,Potsdamer Platz,231,0,2024-02-01 02:00:00
+U3,Hauptbahnhof,155,0,2024-02-01 03:00:00
+U1,Zoo,266,0,2024-02-01 04:00:00
+U3,Zoo,254,5,2024-02-01 05:00:00
+U4,Alexanderplatz,119,0,2024-02-01 06:00:00
+U4,Friedrichstraße,93,0,2024-02-01 07:00:00
+U1,Friedrichstraße,378,0,2024-02-01 08:00:00
+U3,Zoo,350,0,2024-02-01 09:00:00
+U3,Hauptbahnhof,277,0,2024-02-01 10:00:00
+U3,Potsdamer Platz,233,0,2024-02-01 11:00:00
+U5,Hauptbahnhof,156,1,2024-02-01 12:00:00
+U2,Potsdamer Platz,133,0,2024-02-01 13:00:00
+U5,Zoo,387,0,2024-02-01 14:00:00
+U2,Potsdamer Platz,299,0,2024-02-01 15:00:00
+U3,Friedrichstraße,412,0,2024-02-01 16:00:00
+U3,Alexanderplatz,490,2,2024-02-01 17:00:00
+U5,Alexanderplatz,70,0,2024-02-01 18:00:00
+U5,Zoo,245,0,2024-02-01 19:00:00
+U2,Friedrichstraße,227,0,2024-02-01 20:00:00
+U4,Hauptbahnhof,466,1,2024-02-01 21:00:00
+U2,Friedrichstraße,56,1,2024-02-01 22:00:00
+U5,Alexanderplatz,119,0,2024-02-01 23:00:00
+U5,Alexanderplatz,176,1,2024-02-02 00:00:00
+U1,Friedrichstraße,448,1,2024-02-02 01:00:00
+U5,Friedrichstraße,209,2,2024-02-02 02:00:00
+U1,Alexanderplatz,297,2,2024-02-02 03:00:00
+U4,Hauptbahnhof,252,0,2024-02-02 04:00:00
+U2,Zoo,197,0,2024-02-02 05:00:00
+U2,Zoo,192,0,2024-02-02 06:00:00
+U1,Friedrichstraße,481,0,2024-02-02 07:00:00
+U2,Zoo,248,10,2024-02-02 08:00:00
+U5,Alexanderplatz,454,0,2024-02-02 09:00:00
+U3,Alexanderplatz,475,0,2024-02-02 10:00:00
+U1,Friedrichstraße,203,1,2024-02-02 11:00:00
+U2,Friedrichstraße,425,0,2024-02-02 12:00:00
+U1,Friedrichstraße,433,0,2024-02-02 13:00:00
+U1,Hauptbahnhof,191,0,2024-02-02 14:00:00
+U3,Zoo,362,0,2024-02-02 15:00:00
+U5,Friedrichstraße,214,1,2024-02-02 16:00:00
+U1,Potsdamer Platz,363,0,2024-02-02 17:00:00
+U2,Potsdamer Platz,70,0,2024-02-02 18:00:00
+U4,Alexanderplatz,131,0,2024-02-02 19:00:00
+U1,Zoo,118,0,2024-02-02 20:00:00
+U1,Friedrichstraße,180,1,2024-02-02 21:00:00
+U3,Potsdamer Platz,136,0,2024-02-02 22:00:00
+U5,Zoo,267,0,2024-02-02 23:00:00
+U4,Alexanderplatz,470,5,2024-02-03 00:00:00
+U2,Hauptbahnhof,354,1,2024-02-03 01:00:00
+U4,Zoo,452,0,2024-02-03 02:00:00
+U2,Zoo,420,0,2024-02-03 03:00:00
+U5,Hauptbahnhof,394,1,2024-02-03 04:00:00
+U2,Zoo,390,1,2024-02-03 05:00:00
+U3,Alexanderplatz,433,0,2024-02-03 06:00:00
+U3,Alexanderplatz,445,10,2024-02-03 07:00:00
+U3,Hauptbahnhof,494,0,2024-02-03 08:00:00
+U3,Friedrichstraße,474,0,2024-02-03 09:00:00
+U4,Potsdamer Platz,210,0,2024-02-03 10:00:00
+U5,Friedrichstraße,227,0,2024-02-03 11:00:00
+U2,Zoo,166,2,2024-02-03 12:00:00
+U2,Potsdamer Platz,245,0,2024-02-03 13:00:00
+U3,Hauptbahnhof,432,0,2024-02-03 14:00:00
+U3,Hauptbahnhof,376,2,2024-02-03 15:00:00
+U1,Potsdamer Platz,135,0,2024-02-03 16:00:00
+U5,Alexanderplatz,338,0,2024-02-03 17:00:00
+U4,Potsdamer Platz,130,0,2024-02-03 18:00:00
+U2,Zoo,201,0,2024-02-03 19:00:00
+U1,Alexanderplatz,110,0,2024-02-03 20:00:00
+U1,Hauptbahnhof,110,1,2024-02-03 21:00:00
+U2,Potsdamer Platz,403,0,2024-02-03 22:00:00
+U4,Friedrichstraße,77,0,2024-02-03 23:00:00
+U1,Friedrichstraße,491,1,2024-02-04 00:00:00
+U1,Zoo,92,1,2024-02-04 01:00:00
+U5,Friedrichstraße,218,0,2024-02-04 02:00:00
+U4,Potsdamer Platz,472,0,2024-02-04 03:00:00
+U1,Potsdamer Platz,135,0,2024-02-04 04:00:00
+U4,Friedrichstraße,226,0,2024-02-04 05:00:00
+U2,Potsdamer Platz,66,0,2024-02-04 06:00:00
+U3,Zoo,147,0,2024-02-04 07:00:00
+U1,Alexanderplatz,247,5,2024-02-04 08:00:00
+U5,Zoo,147,0,2024-02-04 09:00:00
+U2,Zoo,114,1,2024-02-04 10:00:00
+U4,Potsdamer Platz,379,0,2024-02-04 11:00:00
+U2,Alexanderplatz,390,1,2024-02-04 12:00:00
+U1,Potsdamer Platz,54,1,2024-02-04 13:00:00
+U4,Hauptbahnhof,51,2,2024-02-04 14:00:00
+U3,Potsdamer Platz,71,0,2024-02-04 15:00:00
+U2,Potsdamer Platz,161,0,2024-02-04 16:00:00
+U1,Potsdamer Platz,106,0,2024-02-04 17:00:00
+U5,Alexanderplatz,115,1,2024-02-04 18:00:00
+U4,Potsdamer Platz,379,0,2024-02-04 19:00:00
+U2,Alexanderplatz,147,0,2024-02-04 20:00:00
+U2,Friedrichstraße,193,0,2024-02-04 21:00:00
+U3,Hauptbahnhof,417,0,2024-02-04 22:00:00
+U3,Alexanderplatz,484,0,2024-02-04 23:00:00
+U5,Friedrichstraße,174,0,2024-02-05 00:00:00
+U5,Alexanderplatz,216,10,2024-02-05 01:00:00
+U1,Alexanderplatz,135,1,2024-02-05 02:00:00
+U1,Hauptbahnhof,125,10,2024-02-05 03:00:00
+U5,Zoo,393,0,2024-02-05 04:00:00
+U5,Zoo,473,2,2024-02-05 05:00:00
+U4,Alexanderplatz,343,2,2024-02-05 06:00:00
+U3,Potsdamer Platz,493,1,2024-02-05 07:00:00
+U1,Friedrichstraße,108,1,2024-02-05 08:00:00
+U3,Potsdamer Platz,187,0,2024-02-05 09:00:00
+U3,Potsdamer Platz,148,2,2024-02-05 10:00:00
+U5,Alexanderplatz,241,0,2024-02-05 11:00:00
+U4,Alexanderplatz,292,0,2024-02-05 12:00:00
+U2,Alexanderplatz,368,0,2024-02-05 13:00:00
+U4,Alexanderplatz,98,5,2024-02-05 14:00:00
+U4,Zoo,497,2,2024-02-05 15:00:00
+U3,Alexanderplatz,81,10,2024-02-05 16:00:00
+U4,Zoo,440,1,2024-02-05 17:00:00
+U1,Zoo,326,0,2024-02-05 18:00:00
+U3,Alexanderplatz,69,0,2024-02-05 19:00:00
+U1,Hauptbahnhof,203,0,2024-02-05 20:00:00
+U2,Friedrichstraße,432,0,2024-02-05 21:00:00
+U3,Potsdamer Platz,117,0,2024-02-05 22:00:00
+U2,Zoo,415,0,2024-02-05 23:00:00
+U3,Friedrichstraße,421,0,2024-02-06 00:00:00
+U5,Hauptbahnhof,263,5,2024-02-06 01:00:00
+U4,Potsdamer Platz,192,0,2024-02-06 02:00:00
+U5,Potsdamer Platz,425,2,2024-02-06 03:00:00
+U2,Zoo,281,1,2024-02-06 04:00:00
+U4,Alexanderplatz,262,0,2024-02-06 05:00:00
+U3,Hauptbahnhof,128,0,2024-02-06 06:00:00
+U4,Zoo,263,0,2024-02-06 07:00:00
+U1,Hauptbahnhof,165,0,2024-02-06 08:00:00
+U4,Alexanderplatz,141,1,2024-02-06 09:00:00
+U1,Alexanderplatz,319,0,2024-02-06 10:00:00
+U4,Zoo,460,0,2024-02-06 11:00:00
+U1,Alexanderplatz,430,0,2024-02-06 12:00:00
+U2,Friedrichstraße,217,10,2024-02-06 13:00:00
+U5,Potsdamer Platz,107,1,2024-02-06 14:00:00
+U3,Zoo,333,1,2024-02-06 15:00:00
+U4,Hauptbahnhof,75,0,2024-02-06 16:00:00
+U5,Friedrichstraße,418,1,2024-02-06 17:00:00
+U3,Zoo,496,1,2024-02-06 18:00:00
+U3,Alexanderplatz,115,1,2024-02-06 19:00:00
+U1,Alexanderplatz,458,10,2024-02-06 20:00:00
+U2,Alexanderplatz,297,0,2024-02-06 21:00:00
+U2,Alexanderplatz,303,5,2024-02-06 22:00:00
+U5,Hauptbahnhof,436,5,2024-02-06 23:00:00
+U2,Friedrichstraße,93,0,2024-02-07 00:00:00
+U4,Potsdamer Platz,146,0,2024-02-07 01:00:00
+U2,Hauptbahnhof,91,10,2024-02-07 02:00:00
+U5,Hauptbahnhof,276,0,2024-02-07 03:00:00
+U2,Potsdamer Platz,311,0,2024-02-07 04:00:00
+U4,Potsdamer Platz,216,10,2024-02-07 05:00:00
+U1,Alexanderplatz,485,0,2024-02-07 06:00:00
+U5,Hauptbahnhof,328,0,2024-02-07 07:00:00
+U1,Zoo,138,0,2024-02-07 08:00:00
+U1,Potsdamer Platz,428,0,2024-02-07 09:00:00
+U1,Potsdamer Platz,227,0,2024-02-07 10:00:00
+U3,Friedrichstraße,476,0,2024-02-07 11:00:00
+U3,Zoo,452,1,2024-02-07 12:00:00
+U1,Zoo,246,0,2024-02-07 13:00:00
+U5,Potsdamer Platz,356,1,2024-02-07 14:00:00
+U4,Alexanderplatz,316,1,2024-02-07 15:00:00
+U4,Friedrichstraße,317,0,2024-02-07 16:00:00
+U2,Zoo,123,1,2024-02-07 17:00:00
+U5,Potsdamer Platz,57,0,2024-02-07 18:00:00
+U3,Zoo,457,0,2024-02-07 19:00:00
+U1,Friedrichstraße,346,0,2024-02-07 20:00:00
+U2,Friedrichstraße,213,5,2024-02-07 21:00:00
+U4,Hauptbahnhof,134,0,2024-02-07 22:00:00
+U3,Potsdamer Platz,121,0,2024-02-07 23:00:00
+U3,Friedrichstraße,104,1,2024-02-08 00:00:00
+U1,Hauptbahnhof,442,0,2024-02-08 01:00:00
+U4,Hauptbahnhof,96,0,2024-02-08 02:00:00
+U5,Zoo,448,0,2024-02-08 03:00:00
+U3,Zoo,481,1,2024-02-08 04:00:00
+U1,Hauptbahnhof,287,1,2024-02-08 05:00:00
+U5,Zoo,153,0,2024-02-08 06:00:00
+U4,Friedrichstraße,259,0,2024-02-08 07:00:00
+U3,Alexanderplatz,91,0,2024-02-08 08:00:00
+U5,Friedrichstraße,365,1,2024-02-08 09:00:00
+U5,Hauptbahnhof,317,0,2024-02-08 10:00:00
+U5,Hauptbahnhof,435,0,2024-02-08 11:00:00
+U3,Friedrichstraße,312,0,2024-02-08 12:00:00
+U3,Zoo,385,0,2024-02-08 13:00:00
+U2,Zoo,436,0,2024-02-08 14:00:00
+U4,Hauptbahnhof,414,0,2024-02-08 15:00:00
+U1,Potsdamer Platz,308,0,2024-02-08 16:00:00
+U5,Zoo,332,1,2024-02-08 17:00:00
+U2,Friedrichstraße,163,0,2024-02-08 18:00:00
+U1,Zoo,412,5,2024-02-08 19:00:00
+U2,Friedrichstraße,89,0,2024-02-08 20:00:00
+U3,Hauptbahnhof,466,1,2024-02-08 21:00:00
+U5,Zoo,269,1,2024-02-08 22:00:00
+U1,Friedrichstraße,178,0,2024-02-08 23:00:00
+U1,Hauptbahnhof,57,0,2024-02-09 00:00:00
+U1,Potsdamer Platz,150,1,2024-02-09 01:00:00
+U1,Friedrichstraße,465,0,2024-02-09 02:00:00
+U1,Potsdamer Platz,429,5,2024-02-09 03:00:00
+U2,Potsdamer Platz,225,0,2024-02-09 04:00:00
+U5,Alexanderplatz,156,5,2024-02-09 05:00:00
+U3,Zoo,150,0,2024-02-09 06:00:00
+U3,Friedrichstraße,309,1,2024-02-09 07:00:00
+U3,Potsdamer Platz,415,1,2024-02-09 08:00:00
+U3,Alexanderplatz,295,1,2024-02-09 09:00:00
+U2,Hauptbahnhof,324,0,2024-02-09 10:00:00
+U4,Friedrichstraße,81,1,2024-02-09 11:00:00
+U5,Potsdamer Platz,186,0,2024-02-09 12:00:00
+U1,Zoo,61,1,2024-02-09 13:00:00
+U4,Alexanderplatz,444,0,2024-02-09 14:00:00
+U3,Potsdamer Platz,351,2,2024-02-09 15:00:00
+U4,Zoo,424,0,2024-02-09 16:00:00
+U5,Potsdamer Platz,65,2,2024-02-09 17:00:00
+U1,Friedrichstraße,178,2,2024-02-09 18:00:00
+U1,Friedrichstraße,112,2,2024-02-09 19:00:00
+U5,Friedrichstraße,158,0,2024-02-09 20:00:00
+U5,Alexanderplatz,424,0,2024-02-09 21:00:00
+U3,Friedrichstraße,70,10,2024-02-09 22:00:00
+U1,Zoo,207,0,2024-02-09 23:00:00
+U4,Potsdamer Platz,318,0,2024-02-10 00:00:00
+U2,Hauptbahnhof,211,1,2024-02-10 01:00:00
+U2,Zoo,309,1,2024-02-10 02:00:00
+U5,Zoo,461,0,2024-02-10 03:00:00
+U3,Friedrichstraße,151,1,2024-02-10 04:00:00
+U2,Alexanderplatz,272,2,2024-02-10 05:00:00
+U1,Potsdamer Platz,108,0,2024-02-10 06:00:00
+U5,Alexanderplatz,296,5,2024-02-10 07:00:00
+U4,Potsdamer Platz,177,0,2024-02-10 08:00:00
+U5,Potsdamer Platz,332,0,2024-02-10 09:00:00
+U4,Alexanderplatz,374,0,2024-02-10 10:00:00
+U5,Zoo,74,0,2024-02-10 11:00:00
+U5,Potsdamer Platz,180,5,2024-02-10 12:00:00
+U5,Alexanderplatz,402,0,2024-02-10 13:00:00
+U4,Potsdamer Platz,245,0,2024-02-10 14:00:00
+U4,Hauptbahnhof,330,0,2024-02-10 15:00:00
+U5,Zoo,453,0,2024-02-10 16:00:00
+U2,Friedrichstraße,467,0,2024-02-10 17:00:00
+U3,Potsdamer Platz,203,0,2024-02-10 18:00:00
+U3,Hauptbahnhof,431,0,2024-02-10 19:00:00
+U3,Friedrichstraße,182,2,2024-02-10 20:00:00
+U4,Friedrichstraße,276,0,2024-02-10 21:00:00
+U4,Potsdamer Platz,238,0,2024-02-10 22:00:00
+U2,Alexanderplatz,314,0,2024-02-10 23:00:00
+U3,Potsdamer Platz,421,1,2024-02-11 00:00:00
+U3,Hauptbahnhof,483,0,2024-02-11 01:00:00
+U5,Friedrichstraße,183,0,2024-02-11 02:00:00
+U4,Potsdamer Platz,260,0,2024-02-11 03:00:00
+U3,Alexanderplatz,109,10,2024-02-11 04:00:00
+U2,Potsdamer Platz,477,0,2024-02-11 05:00:00
+U2,Zoo,426,1,2024-02-11 06:00:00
+U3,Alexanderplatz,444,0,2024-02-11 07:00:00
+U4,Hauptbahnhof,499,0,2024-02-11 08:00:00
+U2,Friedrichstraße,480,1,2024-02-11 09:00:00
+U5,Potsdamer Platz,413,0,2024-02-11 10:00:00
+U2,Alexanderplatz,413,2,2024-02-11 11:00:00
+U1,Zoo,262,5,2024-02-11 12:00:00
+U1,Alexanderplatz,265,2,2024-02-11 13:00:00
+U4,Zoo,275,0,2024-02-11 14:00:00
+U3,Hauptbahnhof,180,1,2024-02-11 15:00:00
